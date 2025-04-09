@@ -1,0 +1,19 @@
+body {
+  font-family: sans-serif;
+  background: #fff;
+  margin: 0;
+  padding: 0;
+}
+.App {
+  text-align: center;
+  padding: 20px;
+}
+.canvas {
+  width: 100%;
+  min-height: 800px;
+  border: 2px dashed #ccc;
+  margin-top: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
